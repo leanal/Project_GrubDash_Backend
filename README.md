@@ -1,6 +1,6 @@
 # Project_GrubDash
 
-## Project Goal
+## Goal
 To build APIs with complex validation.
 
 ## Learning objectives
