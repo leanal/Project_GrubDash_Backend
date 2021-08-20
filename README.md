@@ -1,8 +1,10 @@
 # Project_GrubDash
 
+## Links
 [/dishes](https://fierce-hollows-10891.herokuapp.com/dishes)
-
+Other route: /:dishId
 [/orders](https://fierce-hollows-10891.herokuapp.com/orders)
+Other route: /:orderId
 
 ## Goal
 To build APIs with complex validation.
