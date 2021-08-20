@@ -2,10 +2,10 @@
 
 ## Links
 [/dishes](https://fierce-hollows-10891.herokuapp.com/dishes)
-Other route: /:dishId
+Other route: /dishes/:dishId
 
 [/orders](https://fierce-hollows-10891.herokuapp.com/orders)
-Other route: /:orderId
+Other route: /orders/:orderId
 
 ## Goal
 To build APIs with complex validation.
